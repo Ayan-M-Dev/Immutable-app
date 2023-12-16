@@ -24,4 +24,4 @@ npm install @imtbl/sdk@0.28.0
 npm run dev
 ```
 
-## Head to http://localhost:5003
+Head to http://localhost:5003
