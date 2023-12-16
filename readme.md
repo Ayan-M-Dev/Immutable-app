@@ -1,4 +1,4 @@
-### ---------------------------------------------- This is a sample test App -------------------------------------------------
+### --------------------------------- This is a sample test App ----------------------------------------
 # Immutable Passport
 Immutable Passport is a simple and secure onboarding solution designed for games and developers which aims to enable an enhanced user-friendly experience for gamers through offering passwordless sign-on and automated wallet creation.
 
