@@ -25,3 +25,5 @@ npm run dev
 ```
 
 Head to http://localhost:5003
+
+![ss](https://github.com/Ayan-M-Dev/Immutable-app/assets/101629997/03551105-5cc7-4bb4-9a87-1c7da0bc9afc)
